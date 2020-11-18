@@ -25,6 +25,8 @@ In this this insights are generated only for Australia. Also, this project consi
 
 -COVID-19 Mobility, https://public.tableau.com/profile/sreetam8740#!/vizhome/Mobility_C3/Mobility_COVID19
 
+**Product Video**-https://bit.ly/BUKProductVideo
+
 ## 2. API Used
 -**Data Lake API used**- 
 1. Evalmetrics- Outbreak location
