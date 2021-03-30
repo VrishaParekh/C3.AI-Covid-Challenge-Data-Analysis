@@ -19,11 +19,11 @@ In this this insights are generated only for Australia. Also, this project consi
 
 **Data Analysis Tableau Dashboards**- All the exploratory data analysis has been done on Tableau dashboards, for which the links are:
 
--COVID-19 Traits & Insights, Australia,https://bit.ly/COVID-19TraitsInsights
+-COVID-19 Traits & Insights, Australia,http://bit.ly/Covid19TraitsAndInsightsNational
 
--COVID-19 Traits & Insights, Statewise(AU),https://bit.ly/StatewiseCOVID-19TraitsInsights
+-COVID-19 Traits & Insights, Statewise(AU),http://bit.ly/Covid19TraitsAndAnalysis
 
--COVID-19 Mobility, https://bit.ly/Covid19Mobility
+-COVID-19 Mobility, http://bit.ly/MobilityTraits
 
 **Product Video**-https://bit.ly/BUKProductVideo
 
